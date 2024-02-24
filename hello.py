@@ -8,7 +8,7 @@ def test1(a,b,c)
     d = sum(a,b,c)
     return d
 
-def test2():
+def test3():
     pass
 
 def main():
