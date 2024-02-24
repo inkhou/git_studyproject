@@ -4,9 +4,9 @@ def test(a):
 	b = type(a)
 	return b
 
-def test1(a,b)
-    c = sum(a,b)
-    return c
+def test1(a,b,c)
+    d = sum(a,b,c)
+    return d
 
 def main():
 	result1 = test("123")
