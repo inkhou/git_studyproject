@@ -8,6 +8,9 @@ def test1(a,b,c)
     d = sum(a,b,c)
     return d
 
+def test2():
+    pass
+
 def main():
 	result1 = test("123")
     result2 = test(1,2)
